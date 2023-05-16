@@ -10,4 +10,6 @@ https://www.17lands.com/
 Public datasets:
 https://www.17lands.com/public_datasets
 
+MOM Premier Draft Last Updated 2023-05-09
+https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.MOM.PremierDraft.csv.gz
 
